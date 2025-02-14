@@ -1,4 +1,4 @@
-# Objectives
+ # Objectives
 ## Gain experience with debugging
 Debugging is a crucial part of programming. How you will debug your code will vary from language to language. In HTML/JavaScript there are a few ways to debug. You can use the developer tools in the browser and you can also set breakpoints in Visual Studio Code.
 ## Requirements
